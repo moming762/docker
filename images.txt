@@ -1,3 +1,8 @@
 selenium/standalone-chrome:nightly
-
+postgres:16-alpine
+coturn/coturn
+netbirdio/management:latest
+netbirdio/signal:latest
+netbirdio/dashboard:latest
+caddy
 
