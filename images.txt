@@ -5,4 +5,5 @@ netbirdio/management:latest
 netbirdio/signal:latest
 netbirdio/dashboard:latest
 caddy
-
+cockroachdb/cockroach:v22.2.2
+wiretrustee/dashboard:latest
