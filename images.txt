@@ -7,3 +7,4 @@ netbirdio/dashboard:latest
 caddy
 cockroachdb/cockroach:v22.2.2
 wiretrustee/dashboard:latest
+stereolabs/zed:3.8-devel-cuda11.7-ubuntu20.04
