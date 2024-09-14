@@ -1,7 +1,6 @@
-stereolabs/zed:3.8-devel-cuda11.7-ubuntu20.04
 wangyanglinux/myapp:v1.0
 wangyanglinux/myapp:v2.0
 wangyanglinux/myapp:v3.0
 wangyanglinux/myapp:v4.0
 wangyanglinux/tools:maqingpythonv1
- wangyanglinux/tools:randexitv1
+wangyanglinux/tools:randexitv1
